@@ -1,0 +1,5 @@
+# https://azitani.github.io/  —  AziTani Production
+User-agent: *
+Allow: /
+
+Sitemap: https://azitani.github.io/website/sitemap.xml
